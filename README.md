@@ -67,7 +67,7 @@ On the Products page, you can see a list of products with details such as name, 
 
 ### Editing a Product
 
-![Picsart_24-03-12_14-47-16-281](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/85b0723f-375c-4424-8c51-81c675676683)
+![Screenshot (208)](https://github.com/RishabhJain2404/SIMPLIFIED-ERP-SYSTEM-WITH-REACT/assets/127675963/f3ef4c39-974f-4f08-a1ee-1c066199924d)
 
 
 To edit a product, click on the "Edit" button next to the product you want to edit. Update the information and click "Save".
