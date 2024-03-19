@@ -96,7 +96,7 @@ You can update the status of an order to "Shipped" by clicking the "Ship" button
 
 ### Order Calender view
 
-![Picsart_24-03-12_16-11-12-344](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/3ae931ba-fd56-43d6-96d5-41a3ccd3bfbe)
+![Screenshot (212)](https://github.com/RishabhJain2404/SIMPLIFIED-ERP-SYSTEM-WITH-REACT/assets/127675963/37ec9c50-0c44-4268-bd39-f2b30264b02e)
 
 You can view and display the order with expected delivery date by clicking  a particular date on a calender
 
