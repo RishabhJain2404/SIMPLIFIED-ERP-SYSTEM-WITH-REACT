@@ -86,7 +86,7 @@ On the Orders page, you can view order details, update order status, and delete 
 
 ### Viewing Order Details
 
-![Screenshot (88)-01](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/ffaded5b-8065-426b-a16f-34dbd3c81874)
+![Screenshot (211)](https://github.com/RishabhJain2404/SIMPLIFIED-ERP-SYSTEM-WITH-REACT/assets/127675963/327022b3-1c3b-4e93-a51a-a708cad8fcfc)
 
 On the Orders page, you can view details of each order by clicking on the "View Details" button.
 
