@@ -61,7 +61,7 @@ On the Products page, you can view, add, edit, and delete products.
 ### Viewing Product Information
 
 
-![Picsart_24-03-12_14-41-38-773](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/a44667c2-c7a2-4e25-8fef-d182767c3836)
+![Screenshot (207)](https://github.com/RishabhJain2404/SIMPLIFIED-ERP-SYSTEM-WITH-REACT/assets/127675963/b1b3addb-c5ee-4297-9eca-45a78e19828d)
 
 On the Products page, you can see a list of products with details such as name, category, price, and stock quantity.
 
