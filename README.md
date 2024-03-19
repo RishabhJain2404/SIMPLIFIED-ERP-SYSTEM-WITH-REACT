@@ -80,7 +80,7 @@ To add a new product, click on the "Add Product" button, fill in the required fi
 
 ### ORDER PAGE
 
-![Picsart_24-03-12_15-55-32-683](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/4a805662-a36c-4ec9-8d46-082a5a3a09a8)
+![Screenshot (210)](https://github.com/RishabhJain2404/SIMPLIFIED-ERP-SYSTEM-WITH-REACT/assets/127675963/33ca0024-9746-4068-b2c7-98d396550b1f)
 
 On the Orders page, you can view order details, update order status, and delete orders.
 
