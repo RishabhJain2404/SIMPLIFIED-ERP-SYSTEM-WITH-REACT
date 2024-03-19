@@ -116,15 +116,8 @@ The application leverages a calendar view for filtering orders. Clicking on a pa
 
 This project demonstrates a foundational structure for a simplified Enterprise Resource Planning (ERP) system built with React. It provides basic functionalities for managing products, orders, and viewing them on a calendar.
 
-### Key Features:
-
-- Component-based architecture for modularity and reusability.
-- Routing for navigating between different sections (Dashboard, Products, Orders).
-- Integration with react-calendar for visualizing orders on a calendar view.
-
 ### Future Enhancements:
 
-- Implement functionalities for adding, editing, and deleting products and orders.
 - Implement user authentication and authorization for access control.
 - Add features for managing customers, suppliers, and other aspects of an ERP system.
 - Enhance the user interface with more advanced features like filtering, sorting, and search functionalities.
