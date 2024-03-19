@@ -46,7 +46,7 @@ This repository contains the front end code for a web application. The applicati
 
 ### DASHBOARD
 
-![Picsart_24-03-12_13-15-46-184](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/852b799b-afd6-41b7-b912-bc4b74bd6513)
+![Screenshot (205)](https://github.com/RishabhJain2404/SIMPLIFIED-ERP-SYSTEM-WITH-REACT/assets/127675963/8a5b7811-eacd-4e3a-966e-070c582d7944)
 
 
 The Dashboard page provides an overview of product and order information.
