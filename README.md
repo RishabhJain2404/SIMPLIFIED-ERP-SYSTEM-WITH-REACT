@@ -1,70 +1,108 @@
-# Getting Started with Create React App
+# Simplified ERP System with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the front end code for a web application. The application allows users to manage products and orders and also order calendar views to see the expected delivery date of the order. It is built using React.
 
-## Available Scripts
+## How to Run the Application
 
-In the project directory, you can run:
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
-### `npm start`
+   ```bash
+   git clone <repository-url>
+   ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. **Navigate to the Project Directory**: Change your current directory to the project directory:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   ```bash
+   cd ERP-system
+   ```
 
-### `npm test`
+3. **Install Dependencies**: Install the required dependencies using npm or yarn:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   npm install
+   ```
 
-### `npm run build`
+   or
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```bash
+   yarn install
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. **Run the Application**: Start the development server:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   npm start
+   ```
 
-### `npm run eject`
+   or
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   yarn start
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. **Access the Application**: Once the server is running, you can access the application by opening your web browser and navigating to [http://localhost:3000](http://localhost:3000).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Interaction with the Website & Usage of the Web Application
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### DASHBOARD
 
-## Learn More
+![Picsart_24-03-12_13-15-46-184](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/852b799b-afd6-41b7-b912-bc4b74bd6513)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The Dashboard page provides an overview of product and order information.
 
-### Code Splitting
+### PRODUCT PAGE
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Picsart_24-03-12_14-19-35-027](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/07df8b7b-6a33-40f5-a90b-f8120f0f9ac9)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+On the Products page, you can view, add, edit, and delete products.
 
-### Making a Progressive Web App
+### Viewing Product Information
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+![Picsart_24-03-12_14-41-38-773](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/a44667c2-c7a2-4e25-8fef-d182767c3836)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+On the Products page, you can see a list of products with details such as name, category, price, and stock quantity.
 
-### Deployment
+### Editing a Product
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Picsart_24-03-12_14-47-16-281](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/85b0723f-375c-4424-8c51-81c675676683)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+To edit a product, click on the "Edit" button next to the product you want to edit. Update the information and click "Save".
+
+### Adding a New Product
+
+![Picsart_24-03-12_14-52-12-169](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/207aa8bb-c426-4244-8173-2165d0920f82)
+
+To add a new product, click on the "Add Product" button, fill in the required fields, and click "Save".
+
+### ORDER PAGE
+
+![Picsart_24-03-12_15-55-32-683](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/4a805662-a36c-4ec9-8d46-082a5a3a09a8)
+
+On the Orders page, you can view order details, update order status, and delete orders.
+
+### Viewing Order Details
+
+![Screenshot (88)-01](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/ffaded5b-8065-426b-a16f-34dbd3c81874)
+
+On the Orders page, you can view details of each order by clicking on the "View Details" button.
+
+### Updating Order Status
+
+You can update the status of an order to "Shipped" by clicking the "Ship" button.
+
+### Order Calender view
+
+![Picsart_24-03-12_16-11-12-344](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/3ae931ba-fd56-43d6-96d5-41a3ccd3bfbe)
+
+You can view and display the order with expected delivery date by clicking  a particular date on a calender
+
+
+### Navigation
+
+![Screenshot_20240313-093210_Evolution X Launcher-01](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/7f20158f-0d5e-4a7f-ae53-d074b0aa007d)
+
+Use the navigation bar at the top of the page to switch between different sections of the application: Dashboard, Products, and Orders.
