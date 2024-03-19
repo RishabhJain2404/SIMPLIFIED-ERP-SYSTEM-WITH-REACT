@@ -118,16 +118,16 @@ This project demonstrates a foundational structure for a simplified Enterprise R
 
 ### Key Features:
 
-Component-based architecture for modularity and reusability.
-Routing for navigating between different sections (Dashboard, Products, Orders).
-Integration with react-calendar for visualizing orders on a calendar view.
+- Component-based architecture for modularity and reusability.
+- Routing for navigating between different sections (Dashboard, Products, Orders).
+- Integration with react-calendar for visualizing orders on a calendar view.
 
 ### Future Enhancements:
 
-Implement functionalities for adding, editing, and deleting products and orders.
-Implement user authentication and authorization for access control.
-Add features for managing customers, suppliers, and other aspects of an ERP system.
-Enhance the user interface with more advanced features like filtering, sorting, and search functionalities.
+- Implement functionalities for adding, editing, and deleting products and orders.
+- Implement user authentication and authorization for access control.
+- Add features for managing customers, suppliers, and other aspects of an ERP system.
+- Enhance the user interface with more advanced features like filtering, sorting, and search functionalities.
 
 ### Benefits:
 
