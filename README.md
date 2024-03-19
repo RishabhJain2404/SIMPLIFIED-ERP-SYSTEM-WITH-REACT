@@ -74,7 +74,7 @@ To edit a product, click on the "Edit" button next to the product you want to ed
 
 ### Adding a New Product
 
-![Picsart_24-03-12_14-52-12-169](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/207aa8bb-c426-4244-8173-2165d0920f82)
+![Screenshot (209)](https://github.com/RishabhJain2404/SIMPLIFIED-ERP-SYSTEM-WITH-REACT/assets/127675963/c0575537-a654-4830-bfb8-d4983dfb11e5)
 
 To add a new product, click on the "Add Product" button, fill in the required fields, and click "Save".
 
